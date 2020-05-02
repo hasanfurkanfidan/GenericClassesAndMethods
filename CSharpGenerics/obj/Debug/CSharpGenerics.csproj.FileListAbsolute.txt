@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\CSharpGenerics\CSharpGenerics\bin\Debug\CSharpGenerics.exe.config
+C:\Users\Furkan\source\repos\CSharpGenerics\CSharpGenerics\bin\Debug\CSharpGenerics.exe
+C:\Users\Furkan\source\repos\CSharpGenerics\CSharpGenerics\bin\Debug\CSharpGenerics.pdb
+C:\Users\Furkan\source\repos\CSharpGenerics\CSharpGenerics\obj\Debug\CSharpGenerics.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\CSharpGenerics\CSharpGenerics\obj\Debug\CSharpGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\CSharpGenerics\CSharpGenerics\obj\Debug\CSharpGenerics.exe
+C:\Users\Furkan\source\repos\CSharpGenerics\CSharpGenerics\obj\Debug\CSharpGenerics.pdb
